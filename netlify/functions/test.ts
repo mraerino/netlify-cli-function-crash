@@ -1,6 +1,5 @@
 import type { BuilderHandler } from "@netlify/functions";
 import { builder } from "@netlify/functions";
-// import fetch from "node-fetch";
 
 function fetchForumPosts() {
   return fetch("https://answers.netlify.com/tag/www-changelog.json").then(

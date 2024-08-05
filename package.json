@@ -10,8 +10,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@netlify/functions": "^2.8.1",
-    "@sanity/client": "^6.21.1",
-    "node-fetch": "^3.3.2"
+    "@netlify/functions": "^2.8.1"
   }
 }
