@@ -1,0 +1,17 @@
+{
+  "name": "cli-function-crash",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@netlify/functions": "^2.8.1",
+    "@sanity/client": "^6.21.1",
+    "node-fetch": "^3.3.2"
+  }
+}
